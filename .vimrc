@@ -65,3 +65,5 @@ nnoremap <leader><space> :nohlsearch<CR>
 
 " remap nerdtree to control-n
 map <C-n> :NERDTreeToggle<CR>
+
+let g:load_doxygen_syntax=1
