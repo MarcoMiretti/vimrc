@@ -61,6 +61,7 @@ set incsearch
 set hlsearch
 
 " stop highlight when ,space is hit
+let mapleader=","
 nnoremap <leader><space> :nohlsearch<CR>
 
 " remap nerdtree to control-n
